@@ -1,4 +1,4 @@
-# Hote_dataset_analysis
+# Hotel_dataset_analysis
 👨‍💻👨‍💻 :: Analyzing reason behind cancellation of bookings
 ## Findings 
 ## High pricce range 
